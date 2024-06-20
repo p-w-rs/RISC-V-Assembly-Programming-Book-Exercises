@@ -1,0 +1,10 @@
+{
+  "references": [
+    {
+      "title": "An Introduction to Assembly Programming with RISC-V",
+      "url": "https://riscv-programming.org/index.html",
+      "year": 2024
+    }
+  ],
+  "tags": ["RISC-V", "Assembly", "Book Learning", "Review"]
+}
