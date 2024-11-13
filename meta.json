@@ -1,6 +1,6 @@
 {
   "description": "A collection of exercises from the book 'An Introduction to Assembly Programming with RISC-V'",
-  "stataus": "WIP",
+  "status": "WIP",
   "references": [
     {
       "title": "An Introduction to Assembly Programming with RISC-V",
